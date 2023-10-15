@@ -1,0 +1,21 @@
+.genel {
+    margin-left: 500px;
+}
+
+.tarif {
+    background-color: brown;
+    border-radius: 15px;
+    color: white;
+    display: inline;
+}
+
+.yapılış {
+    background-color: brown;
+    border-radius: 15px;
+    color: white;
+    display: inline;
+}
+
+footer {
+    margin-left: 800px;
+}
